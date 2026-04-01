@@ -25,3 +25,9 @@ The system utilizes a weighted graph $G = (V, E)$ where:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Omer08094/Red-Bus-Service.git](https://github.com/Omer08094/Red-Bus-Service.git)
+2. **Install dependencies:**
+   ```bash
+   pip install networkx matplotlib mplcursors
+3. **Run the application:**
+   ```bash
+   python Red_Bus_Service.py
